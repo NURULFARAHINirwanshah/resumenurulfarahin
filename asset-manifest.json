@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/NURULFARAHINirwanshah/resumenurulfarahin/static/css/main.1cfd20b3.chunk.css",
+    "main.js": "/NURULFARAHINirwanshah/resumenurulfarahin/static/js/main.de4d90c9.chunk.js",
+    "main.js.map": "/NURULFARAHINirwanshah/resumenurulfarahin/static/js/main.de4d90c9.chunk.js.map",
+    "runtime-main.js": "/NURULFARAHINirwanshah/resumenurulfarahin/static/js/runtime-main.de5a1ddb.js",
+    "runtime-main.js.map": "/NURULFARAHINirwanshah/resumenurulfarahin/static/js/runtime-main.de5a1ddb.js.map",
+    "static/css/2.4c0ba635.chunk.css": "/NURULFARAHINirwanshah/resumenurulfarahin/static/css/2.4c0ba635.chunk.css",
+    "static/js/2.edc6780e.chunk.js": "/NURULFARAHINirwanshah/resumenurulfarahin/static/js/2.edc6780e.chunk.js",
+    "static/js/2.edc6780e.chunk.js.map": "/NURULFARAHINirwanshah/resumenurulfarahin/static/js/2.edc6780e.chunk.js.map",
+    "static/js/3.6a5f5777.chunk.js": "/NURULFARAHINirwanshah/resumenurulfarahin/static/js/3.6a5f5777.chunk.js",
+    "static/js/3.6a5f5777.chunk.js.map": "/NURULFARAHINirwanshah/resumenurulfarahin/static/js/3.6a5f5777.chunk.js.map",
+    "index.html": "/NURULFARAHINirwanshah/resumenurulfarahin/index.html",
+    "static/css/2.4c0ba635.chunk.css.map": "/NURULFARAHINirwanshah/resumenurulfarahin/static/css/2.4c0ba635.chunk.css.map",
+    "static/css/main.1cfd20b3.chunk.css.map": "/NURULFARAHINirwanshah/resumenurulfarahin/static/css/main.1cfd20b3.chunk.css.map",
+    "static/js/2.edc6780e.chunk.js.LICENSE.txt": "/NURULFARAHINirwanshah/resumenurulfarahin/static/js/2.edc6780e.chunk.js.LICENSE.txt",
+    "static/media/semantic.min.css": "/NURULFARAHINirwanshah/resumenurulfarahin/static/media/outline-icons.ddae9b1b.woff",
+    "static/media/nufa.763bb6cd.jpeg": "/NURULFARAHINirwanshah/resumenurulfarahin/static/media/nufa.763bb6cd.jpeg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.de5a1ddb.js",
+    "static/css/2.4c0ba635.chunk.css",
+    "static/js/2.edc6780e.chunk.js",
+    "static/css/main.1cfd20b3.chunk.css",
+    "static/js/main.de4d90c9.chunk.js"
+  ]
+}
