@@ -1,0 +1,141 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+h1 {
+  white-space: pre;
+  color: #584158 !important;
+}
+
+p {
+  text-align: left;
+  margin: auto !important;
+
+}
+
+* {
+  box-sizing: border-box;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.thegrid{
+  margin: auto !important;
+}
+
+.header1 {
+  color: #FFFFFF !important;
+  margin: auto !important;
+  margin-top: 50px !important;
+}
+
+.subheader1 {
+  color: #FFFFFF !important;
+  font-size: 13px;
+  font-weight: bold;
+  text-align: left;
+  margin-top: 15px !important;
+}
+
+.content1 {
+  font-size: 12px !important;
+  color: #FFFFFF !important;
+  margin: auto !important;
+  text-align: center !important;
+  margin-top: 10px !important;
+}
+
+.subcontent1 {
+  font-size: 12px !important;
+  color: #FFFFFF !important;
+  text-align: left;
+  margin: auto !important;
+}
+
+.header2 {
+  background: #584158;
+  color: #FFFFFF !important;
+  height: 30px;
+  padding-top: 7px !important;
+  margin-top: 0px !important;
+}
+
+.subheader2 {
+  font-size: 13.5px;
+  font-weight: bold;
+  text-align: left;
+}
+
+.desc2 {
+  text-align: right !important;
+}
+
+.bullets {
+  text-align: left !important;
+  font-size: 12px !important;
+}
+
+.btnprint{
+  position:fixed;
+  width:60px;
+  height:60px;
+  bottom:40px;
+  right:40px;
+  background-color:#0C9;
+  color:#FFF;
+  border-radius:50px;
+  text-align:center;
+  box-shadow: 2px 2px 3px #999;
+}
+
+@media print
+{
+  @page {
+    
+    -webkit-print-color-adjust: exact;
+    background-color: white;
+    margin: 1.1cm 1.6cm
+   }
+  .btnprint {display:none; visibility: hidden;}
+  #printable{
+    -webkit-print-color-adjust: exact;
+    padding: 0;
+  }
+}
+
